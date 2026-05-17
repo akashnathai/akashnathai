@@ -94,15 +94,7 @@ Research on intelligent medical imaging systems for MRI-based analysis and class
 - Explainable healthcare AI
 - Clinical intelligence systems
 
----
 
-# 📚 Publications & Research
-
-- Explainable Deep Learning Architecture for Forecasting Industrial Atmospheric Pollutants
-- Sanskrit Image Captioning using CNN-LSTM Architectures
-- Research in Medical AI & Intelligent Systems
-
----
 
 # 🛠️ Tech Stack
 
